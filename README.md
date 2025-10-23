@@ -17,7 +17,7 @@ Clip of successful rotation
 
 We'll also be talking about health/soul management and healing setups since most categories will use Fury of the Fallen, but of course you can disregard that part if you're not. On that note, you can enter with less health and soul than I'll be showing, and you can greed the heals more if you like, but I'll be showing what I consider to be the most reliable health management that allows for a few failed rotations and doesn't risk getting hit with a spit while you're healing. Keep an eye on current, active runners for the most up-to-date strats.
 
-And, as a final note, we'll be using [Staxis's practice mod](https://github.com/staxissr/ibaldurPractice/releases). I'll also link [this](https://www.youtube.com/watch?v=AlfAHsPH4wg&list=PLH-aXtMsmPYq8ZvwV9G7s3uIz_6AlIygz&index=2) guide on how to set up a modded install for practice if you don't already have one (see part 1 of that guide for making a separate install if you haven’t already).
+And, as a final note, we'll be using [Staxis's practice mod](https://github.com/staxissr/ibaldurPractice/releases). I'll also link [this](https://www.youtube.com/watch?v=AlfAHsPH4wg&list=PLH-aXtMsmPYq8ZvwV9G7s3uIz_6AlIygz&index=1) guide on how to downpatch and set up mods if you need it.
 
 # Damage Rotation
 ### With that said, let's get into specifics:
