@@ -9,7 +9,7 @@ Clip of wiggle with no damage
 - BUT, damage knockback moves us faster than normal walking, and that extra speed plus the delayed close gets us there just in time to land a hit. We can even fit a second hit in since the first hit causes the Baldur to recoil
 Clip of successful rotation
 
-So, for our setup, we need:
+## So, for our setup, we need:
 - A cue for when the shade is close enough to hit us at the right time
 - What we'll call a "wiggle" to time the Baldur's opening and closing
 - A cue for where to stand when we get hit so we enter the Baldur's range correctly
@@ -19,4 +19,17 @@ We'll also be talking about health/soul management and healing setups since most
 
 And, as a final note, we'll be using [Staxis's practice mod](https://github.com/staxissr/ibaldurPractice/releases). I'll also link [this](https://www.youtube.com/watch?v=AlfAHsPH4wg&list=PLH-aXtMsmPYq8ZvwV9G7s3uIz_6AlIygz&index=2) guide on how to set up a modded install for practice if you don't already have one (see part 1 of that guide for making a separate install if you haven’t already).
 
+# Damage Rotation
+With that said, let's get into specifics:
+- Generally speaking, this trick will be more lenient at higher FPS. 300+ is ideal
+- Walk into the room and do a full jump as you pass this point on the sign. You should land on the right edge of this platform and be able to walk under the shade
+- For the rest of the trick, we'll be referencing these 3 marks on the ground by their color.
+- Walk all the way between the red and green marks. When you pass the green mark, the Baldur should close
+- Wait for the shade to hover close enough to you so that this pole in the back is between its horns
+- Once it is, perform the wiggle
+    - Walk right until you reach the blue mark, then turn around. The shade should make the aggro sound and start attacking
+    - Walk left until you pass the green mark, then turn around somewhere between the red and green marks
+    - Walk right back to blue mark and wait to get hit
+- At this point, the shade should hit you. During the freeze from the damage, start holding left
+- Time a nail slash to just barely hit the Baldur from as far as you can. Buffer a second slash to hit it during its recoil
 
