@@ -8,7 +8,7 @@ It can only close if it's fully open, so if we re-enter its range while it's sti
 
 ![nail slash with wiggle](https://github.com/user-attachments/assets/c24fa945-86f4-4eba-9d75-cf86f923cce2)
 
-- BUT, damage knockback moves us faster than normal walking, and that extra speed plus the delayed close gets us there just in time to land a hit. We can even fit a second hit in since the first hit causes the Baldur to recoil.
+BUT, damage knockback moves us faster than normal walking, and that extra speed plus the delayed close gets us there just in time to land a hit. We can even fit a second hit in since the first hit causes the Baldur to recoil.
 
 ![slashes](https://github.com/user-attachments/assets/1a118038-a09a-44a5-a405-f410f391e879)
 
@@ -51,8 +51,7 @@ Wait for the Shade to hover close enough to you so that this pole in the back is
 
 <img width="388" height="318" alt="shade in front of pole" src="https://github.com/user-attachments/assets/39fb1dde-3770-402f-8019-a2f271008d28" />
 
-
-Once it is, perform the wiggle
+Once it is, perform the wiggle:
 - Walk right until you reach the blue mark, then turn around. The shade should make the aggro sound and start attacking
 - Walk left until you pass the green mark, then turn around somewhere between the red and green marks
 - Walk right back to blue mark and wait to get hit
