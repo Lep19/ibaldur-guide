@@ -54,7 +54,7 @@ Wait for the Shade to hover close enough to you so that this pole in the back is
 Once it is, perform the wiggle:
 - Walk right until you reach the blue mark, then turn around. The shade should make the aggro sound and start attacking
 - Walk left until you pass the green mark, then turn around somewhere between the red and green marks
-- Walk right back to blue mark and wait to get hit
+- Walk right back to the blue mark and wait to get hit
 
 ![wiggle](https://github.com/user-attachments/assets/744312d1-d1b2-41bf-89c6-3117101963c1)
 
