@@ -1,11 +1,16 @@
 # Intro
 ## How it Works
-- We can only hit the Baldur when it's open, but if we just walk up to it it'll close before we can reach it with our nail
-Clip of normal walking up
-- It can only close if it's fully open, so if we re-enter its range while it's still in the opening animation it'll delay its close. This still doesn't quite give us enough time to reach it
-Clip of wiggle with no damage
-- BUT, damage knockback moves us faster than normal walking, and that extra speed plus the delayed close gets us there just in time to land a hit. We can even fit a second hit in since the first hit causes the Baldur to recoil
-Clip of successful rotation
+We can only hit the Baldur when it's open, but if we just walk up to it it'll close before we can reach it with our nail.
+
+![nail slash only](https://github.com/user-attachments/assets/ff450522-78f6-44f6-afe5-1c0fbecf7640)
+
+It can only close if it's fully open, so if we re-enter its range while it's still in the opening animation we can delay its close. This still doesn't quite give us enough time to reach it, though.
+
+![nail slash with wiggle](https://github.com/user-attachments/assets/c24fa945-86f4-4eba-9d75-cf86f923cce2)
+
+- BUT, damage knockback moves us faster than normal walking, and that extra speed plus the delayed close gets us there just in time to land a hit. We can even fit a second hit in since the first hit causes the Baldur to recoil.
+
+![slashes](https://github.com/user-attachments/assets/1a118038-a09a-44a5-a405-f410f391e879)
 
 ### So, our setup will need:
 - A cue for when the Shade is close enough to hit us at the right time
