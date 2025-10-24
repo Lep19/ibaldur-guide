@@ -1,4 +1,4 @@
-# Summary
+# Intro
 ## How it Works
 - We can only hit the Baldur when it's open, but if we just walk up to it it'll close before we can reach it with our nail
 Clip of normal walking up
@@ -19,7 +19,7 @@ We'll also be talking about health/soul management and healing setups since most
 
 And, as a final note, we'll be using [Staxis's practice mod](https://github.com/staxissr/ibaldurPractice/releases) to understand and diagnose our attempts later. I'll also link [this](https://www.youtube.com/watch?v=cg7sH7FyAK0&list=PLH-aXtMsmPYq8ZvwV9G7s3uIz_6AlIygz&index=1) guide on how to downpatch and set up mods if you need it.
 
-# How to do It
+# Doing the Trick
 ## Setting Up
 Enter the room with 4 health and at least 5 hits of soul. This will allow for a max of 2 missed rotations.
 
