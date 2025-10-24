@@ -55,7 +55,7 @@ Once it is, perform the wiggle
 ![wiggle](https://github.com/user-attachments/assets/744312d1-d1b2-41bf-89c6-3117101963c1)
 
   
-At this point, the Shade should hit you. During the freeze from the damage, start holding left and time a nail slash to just barely hit the Baldur from as far away as you can. Buffer a second slash to hit it during its recoil.
+At this point, the Shade should hit you. During the freeze from the damage, start holding left and time a nail slash just as you turn around out of the damage. Buffer a second slash to hit it during its recoil.
 
 ![slashes](https://github.com/user-attachments/assets/e375f15c-4b3c-48ba-a962-c7cf2cb38cc9)
 
