@@ -7,7 +7,7 @@ Clip of wiggle with no damage
 - BUT, damage knockback moves us faster than normal walking, and that extra speed plus the delayed close gets us there just in time to land a hit. We can even fit a second hit in since the first hit causes the Baldur to recoil
 Clip of successful rotation
 
-# So, our setup will need:
+### So, our setup will need:
 - A cue for when the Shade is close enough to hit us at the right time
 - What we'll call a "wiggle" to time the Baldur's opening and closing
 - A cue for where to stand when we get hit so we enter the Baldur's range correctly
