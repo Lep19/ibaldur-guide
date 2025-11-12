@@ -118,3 +118,9 @@ NOTE: these values will vary slightly depending on FPS and how other parts of th
 - If your Slash Delay is less than 13, slash later after the Shade hits you. If it's more than 15, slash sooner
 - If you got an RNG Late Attack, you likely greeded the Shade lure more than what was described here
 - If you got a Y-Pos Late Attack, get owned. At this time we don't have a way to reliably avoid this
+
+## Tips for Improvement
+- When you're first starting out, you may need to work on turning around and stopping at precise spots. This is very important for the success of this trick and takes a fair bit of familiarity with playing the game to get used to, so it may be worth practicing the wiggle on its own without any enemies
+- For practice with enemies, consider using Debug Mod's "infinite health" cheats for yourself and for the Baldur and Shade. This will let you do repeated attempts without having to reload a savestate or worry about health management
+- When first attempting rotations, the practice mod is very efficient for diagnosing problems. Compare your numbers with the ones above, and you should have a pretty good idea of what most likely went wrong
+- As you practice, try to hone in on the rhythms of the trick so you can guess what went wrong before you see the numbers. This will become an increasingly important skill as you start to attempt the trick in actual runs. [Here's](https://www.youtube.com/watch?v=OXQDG_dI8n0) a video of HypoCritical doing that type of diagnosing
