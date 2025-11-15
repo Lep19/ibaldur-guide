@@ -26,7 +26,7 @@ And, as a final note, we'll be using [Staxis's practice mod](https://github.com/
 
 # Doing the Trick
 ## Setting Up
-Enter the room with 4 health and at least 5 hits of soul. This will allow for a max of 2 missed rotations.
+Enter the room with 4 health and at least 5 hits of soul to allow for a max of 2 missed rotations. You can enter with as little as 3 health and no soul or 2 health and 3 soul, but this isn't recommended until you're very confident in the trick/aren't willing to continue a run with missed rotations.
 
 Walk into the room and do a full jump as you pass the marked point on this sign. You should land on the right edge of the little platform and be able to walk under the Shade.
 
@@ -35,7 +35,7 @@ Walk into the room and do a full jump as you pass the marked point on this sign.
 
 ![jump under shade](https://github.com/user-attachments/assets/6108d1fb-2e39-4d08-b0c9-746bf8a16e70)
 
-For the rest of this guide, we'll be referencing these 3 marks on the ground often. I've given them colors to make them easier to point out.
+For the rest of this guide, we'll be referencing these 3 marks on the ground often. I've given them colors to make them easier to point out (for colorblind folks, they're red, green, and blue from left to right).
 
 ![rgb](https://github.com/user-attachments/assets/d1622247-abad-4218-a3b3-69795ee2b1fc)
 
