@@ -102,13 +102,13 @@ NOTE: "physics frames" refer to the game's internal framerate rather than your g
 - **Y-Pos Late Attack**: whether the Shade's vertical bobbing caused a late attack
 
 ## What Values to Aim For
-NOTE: these values will vary slightly depending on FPS and how other parts of the setup were executed. The ones provided here are expected to work at 250+ FPS.
-- **Left Range**: 4 to 6
+NOTE: these values will vary slightly depending on FPS and how other parts of the setup were executed. The ones provided here are expected to work most of the time at 250+ FPS. The value in parentheses represents the "ideal" value for diagnosing cases that seem like they should've worked.
+- **Left Range**: 4 to 6 (5)
 - **Shade Attack**: t-0
-- **Hit Pos**: 82.5 to 83
-- **Slash Delay**: 13 to 15
+- **Hit Pos**: 82.5 to 83 (82.7ish)
+- **Slash Delay**: 13 to 15 (13)
 - **Wiggle Duration**: 7 to 13
-- **Earliest Possible Re-entry**: -3 to -1
+- **Earliest Possible Re-entry**: -3 to -1 (-1)
 - **RNG Late Attack**: No
 - **Y-Pos Late Attack**: No
 
@@ -119,7 +119,7 @@ NOTE: these values will vary slightly depending on FPS and how other parts of th
 - If you got an RNG Late Attack, you likely greeded the Shade lure more than what was described here
 - If you got a Y-Pos Late Attack, get owned. At this time we don't have a way to reliably avoid this
 
-## Tips for Improvement
+# Tips for Improvement
 - When you're first starting out, you may need to work on turning around and stopping at precise spots. This is very important for the success of this trick and takes a fair bit of familiarity with playing the game to get used to, so it may be worth practicing the wiggle on its own without any enemies
 - For practice with enemies, consider using Debug Mod's "infinite health" cheats for yourself and for the Baldur and Shade. This will let you do repeated attempts without having to reload a savestate or worry about health management
 - When first attempting rotations, the practice mod is very efficient for diagnosing problems. Compare your numbers with the ones above, and you should have a pretty good idea of what most likely went wrong
